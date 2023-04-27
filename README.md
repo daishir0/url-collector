@@ -31,7 +31,7 @@ python url-collector.py <initial_url>
 
 
 Replace `<initial_url>` with the URL of the domain you want to start the URL collection from.
-# Precautions
+# Notes
 
 Please note that this program is intended for educational purposes and should not be used to scrape websites without the website owner's permission. Be sure to respect the target website's terms of service, robots.txt, and applicable laws.
 # License
